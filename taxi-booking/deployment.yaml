@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: devopsvmr/image1:v1.0.4
+          image: shiva3005/taxibooking:v1.0.1
           ports:
             - containerPort: 8080
 ---
